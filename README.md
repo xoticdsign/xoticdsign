@@ -1,3 +1,4 @@
 <div align="center">
- <img width="1411" alt="Screenshot 2024-09-18 at 2 07 59 PM" src="https://github.com/user-attachments/assets/e1a0149a-7811-432a-b408-350192899ca1">
+ <img width="1289" alt="Screenshot 2024-09-18 at 9 25 01 PM" src="https://github.com/user-attachments/assets/c104a4d6-3c03-4c30-93cd-1a81d25acd9c">
 </div>
+
