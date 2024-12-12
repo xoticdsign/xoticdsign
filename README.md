@@ -39,7 +39,7 @@
 ###
 
 <div align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=xoticdsign&radius=16&theme=modern-lilac&area=true&order=5&hide_title=false&hide_border=true&custom_title=%D0%9A%D0%BE%D0%BD%D1%80%D0%B8%D0%B1%D1%83%D1%86%D0%B8%D0%B8" height="275" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=xoticdsign&radius=16&theme=modern-lilac&area=true&order=5&hide_title=true&hide_border=true&custom_title=%D0%9A%D0%BE%D0%BD%D1%80%D0%B8%D0%B1%D1%83%D1%86%D0%B8%D0%B8" height="275" alt="activity-graph graph"  />
 </div>
 
 ###
